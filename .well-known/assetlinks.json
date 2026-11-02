@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.asd7040.ghiyab",
+        "sha256_cert_fingerprints": ["58:7D:3E:E1:6D:B3:E8:C9:E6:77:D6:AE:56:4F:0A:D4:8D:A8:67:73:DD:2A:69:1E:7D:40:87:1F:C5:C5:EF:08"]
+      }
+    }]
